@@ -5,11 +5,11 @@
 body {background: #fff;}
 ul,li {margin: 0;padding:0; list-style: none;}
 #slide {position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 30%;
+    left: 60%;
     transform: translate(-50%, -50%);
     width: 600px;height: 444px;
-    width: 295.95px;height: 147.4px;
+    width: 731.82px;height: 190.91px;
 }
-img {width: 295.95px; height: 147.4px;}
+img {width: 500px; height: 190.91px;}
 /* poa >> position: absolute;  */
