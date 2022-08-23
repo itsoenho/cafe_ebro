@@ -3,10 +3,11 @@
 /* *→ 전체선택자 */
 *{margin: 0;padding: 0;}
 body {background: #fff;}
+
 ul,li {margin: 0;padding:0; list-style: none;}
 #slide {position: absolute;
     top: 30%;
-    left: 60%;
+    left: 80%;
     transform: translate(-50%, -50%);
     width: 600px;height: 444px;
     width: 731.82px;height: 190.91px;
