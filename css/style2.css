@@ -13,4 +13,5 @@ ul,li {margin: 0;padding:0; list-style: none;}
     width: 731.82px;height: 190.91px;
 }
 img {width: 500px; height: 190.91px;}
+img:hover {opacity: 0.7;}
 /* poa >> position: absolute;  */
